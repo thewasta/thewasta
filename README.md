@@ -1,12 +1,11 @@
 ### Hi there, I'm Schenier Lopez -- aka thewasta
 
 ## I'm a self-learning developer
-- 💼 Currently working on _PowerPlanet_
-- 🔭 Working on an application.
-- ✍🏽 Currently learning everything
-- ‍✈ I would like to travel around the world and learn more about Programming/Dev
+- 💼 Currently working on _Netberry Solutions S.L_
+- 🔭 Working on an API.
+- ✍🏽 Currently learning VUEJS
 - 👀 I want a new adventure.
-- 🥅 2021 Goal: Progress Elastic Stack.
+- 🥅 2022 Goal: Progress Elastic Stack.
 
 ### Connect with me:
 [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="25px">](https://www.linkedin.com/in/schenier-aldair-l%C3%B3pez-uriarte-24700b132/)
