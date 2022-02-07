@@ -3,7 +3,7 @@
 ## I'm a self-learning developer
 - 💼 Currently working on _Netberry Solutions S.L_
 - 🔭 Working on an API.
-- ✍🏽 Currently learning VUEJS
+- ✍🏽 Currently learning.
 - 👀 I want a new adventure.
 - 🥅 2022 Goal: Progress Elastic Stack.
 
