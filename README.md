@@ -1,7 +1,7 @@
 ### Hi there, I'm Schenier Lopez -- aka thewasta
 
 ## I'm a self-learning developer
-- 💼 Currently working on _Netberry Solutions S.L_
+- 💼 Currently working on _The Cocktail_
 - 🔭 Working on an API.
 - ✍🏽 Currently learning.
 - 👀 I want a new adventure.
