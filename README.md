@@ -6,7 +6,8 @@
 - ✍🏽 Currently learning.
 - 👀 I want a new adventure.
 - 🥅 2022 Goal: Progress Elastic Stack.
-
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewasta&layout=compact&theme=dark)](https://github.com/thewasta)
 ### Connect with me:
 [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="25px">](https://www.linkedin.com/in/schenier-aldair-l%C3%B3pez-uriarte-24700b132/)
 
