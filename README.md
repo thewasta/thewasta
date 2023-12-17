@@ -9,7 +9,7 @@
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewasta&layout=compact&theme=dark)](https://github.com/thewasta)
 ### Connect with me:
-[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="25px">](https://www.linkedin.com/in/schenier-aldair-l%C3%B3pez-uriarte-24700b132/)
+[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="25px">](https://www.linkedin.com/in/schenier-l%C3%B3pez-24700b132/)
 
 ### Languages and tools:
 [<img src="https://icon-library.com/images/intellij-idea-icon/intellij-idea-icon-6.jpg" width="25px" alt="intellij" />](https://www.jetbrains.com/)
